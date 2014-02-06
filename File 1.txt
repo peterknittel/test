@@ -1,3 +1,5 @@
 Initial file 1 text in mster branch - additional change to file 1
 
 some changes to file 1
+
+some changs in VS
